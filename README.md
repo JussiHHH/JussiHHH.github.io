@@ -44,7 +44,7 @@ Well, do I have [the website for you][another fun place]
 
 [Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
-#### Blockquotes
+### Blockquotes
 -----------------
 I read this interesting quote the other day:
 
